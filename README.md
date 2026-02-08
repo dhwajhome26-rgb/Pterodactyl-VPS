@@ -188,11 +188,13 @@ Step 6: ```cd minecraft_server```
 
 Step 7: ```wget https://fill-data.papermc.io/v1/objects/82a487ab8c2d0f6f072b8dbaedc9218c85ae3a7d167808124462b248955beec3/paper-1.21.11-111.jar```
 
+Step 8: ```Make New Terminal In Your GitHub CodeSpace```
+
    * Start Command
 
-Step 8: ```cd minecraft server```
+Step 9: ```cd minecraft server```
 
-Step 9: ```java -Xmx12288M -Xms12288M -jar paper-1.21.11-111.jar nogui```
+Step 10: ```java -Xmx12288M -Xms12288M -jar paper-1.21.11-111.jar nogui```
 
 [ This Codes Working On All VPS Like WorkSpace / Codespace / Real-VPS ]
 ---
