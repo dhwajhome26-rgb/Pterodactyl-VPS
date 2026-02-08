@@ -113,6 +113,26 @@ Step 5: ```Paste Your Configure Of Node```
 
 Step 6: ```node .```
 
+---
+
+## 🌥️ SkyPort-Panel
+
+Step 1: ```sudo su```
+
+Step 2: ```bash <(curl -s https://raw.githubusercontent.com/JishnuTheGamer/skyport/refs/heads/main/panel)```
+
+   * Wings/Node Install
+
+Step 3: ```sudo su```
+
+Step 4: ```bash <(curl -s https://raw.githubusercontent.com/JishnuTheGamer/skyport/refs/heads/main/wings)```
+
+Step 5: ```cd skyportd```
+
+Step 6: ```Paste Your Node Configure```
+
+Step 7: ```pm2 start .```
+
 [ This Codes Working On All VPS Like WorkSpace / Codespace / Real-VPS ]
 ---
 Credit all these guys!:
