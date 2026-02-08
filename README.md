@@ -1,9 +1,9 @@
 # 🚀 Google IDX VM Setup Guide
 * Made By DhwaJ_XD [ Edited & Codes ]
 
-HTTPS: ’’’https://github.com/dhwajhome26-rgb/Pterodactyl-VPS.git’’’
+HTTPS: ```https://github.com/dhwajhome26-rgb/Pterodactyl-VPS.git```
 
-GitHub CLI: ’’’gh repo clone dhwajhome26-rgb/Pterodactyl-VPS’’’
+GitHub CLI: ```gh repo clone dhwajhome26-rgb/Pterodactyl-VPS```
 
 ---
 
