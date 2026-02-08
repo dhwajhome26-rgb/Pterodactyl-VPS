@@ -133,6 +133,38 @@ Step 6: ```Paste Your Node Configure```
 
 Step 7: ```pm2 start .```
 
+---
+
+## 🎲 HydraDash
+Paper Versions > https://github.com/dhwajhome26-rgb/Pterodactyl-VPS/blob/main/Paper-Versions.json
+PlayIt > https://github.com/dhwajhome26-rgb/Pterodactyl-VPS/blob/main/playit-minecraft-plugin.jar
+
+Step 1: ```sudo su```
+
+Step 2: ```bash <( curl -s https://raw.githubusercontent.com/JishnuTheGamer/dashboard/refs/heads/main/dash)```
+
+   * Install Node
+
+Step 3: ```git clone https://github.com/hydren-dev/HydraDAEMON```
+
+Step 4: ```cd HydraDAEMON```
+
+Step 5: ```npm install```
+
+Step 6: ```Paste Your Configure Of Node```
+
+Step 7: ```node .```
+
+   * You Want To Again Start Panel Or Node
+
+Step 1: ```cd oversee-fixed```
+
+Step 2: ```node .```
+
+Step 3: ```cd HydraDAEMON```
+
+Step 4: ```node .```
+
 [ This Codes Working On All VPS Like WorkSpace / Codespace / Real-VPS ]
 ---
 Credit all these guys!:
