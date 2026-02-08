@@ -89,7 +89,7 @@ Step 5: ```Paste Your Node Configration```
 
 Step 1: ```bash <(curl -s https://raw.githubusercontent.com/JishnuTheGamer/puffer-panel/refs/heads/main/install)```
 
-* Admin User Create & Start Panel
+  * Admin User Create & Start Panel
 
 Step 2: ```sudo pufferpanel user add```
 
