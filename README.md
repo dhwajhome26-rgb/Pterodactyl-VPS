@@ -137,7 +137,8 @@ Step 7: ```pm2 start .```
 
 ## 🎲 HydraDash
 Paper Versions > https://github.com/dhwajhome26-rgb/Pterodactyl-VPS/blob/main/Paper-Versions.json
-    PlayIt > https://github.com/dhwajhome26-rgb/Pterodactyl-VPS/blob/main/playit-minecraft-plugin.jar
+
+PlayIt > https://github.com/dhwajhome26-rgb/Pterodactyl-VPS/blob/main/playit-minecraft-plugin.jar
 
 Step 1: ```sudo su```
 
