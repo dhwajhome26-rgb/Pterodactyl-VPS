@@ -54,8 +54,40 @@ Step 3: ```apt install neofetch```
 Now You Have 64GB Ram VPS 🎉
 
 ---
+
+## 🦖 TeryxPANEL + Daemon SetUP
+* This Code Made By HopingBOY
+
+Step 1: ```git clone https://github.com/teryxlabs/v4panel```
+
+Step 2: ```curl -sL https://deb.nodesource.com/setup_23.x | sudo bash -```
+
+Step 3: ```apt-get install nodejs git```
+
+Step 4: ```cd v4panel```
+
+Step 5: ```apt install zip -y && unzip panel.zip```
+
+Step 6: ```npm install && npm run seed && npm run createUser```
+
+Step 7: ```node .```
+## Daemon SETUP
+
+Step 1: ```git clone https://github.com/dragonlabsdev/daemon```
+
+Step 2: ```cd daemon```
+
+Step 3: ```apt install zip -y && unzip daemon.zip && cd daemon```
+
+Step 4: ```npm install```
+
+Step 5: ```Paste Your Node Configration```
+
+[ This Code Working On All VPS Like WorkSpace / Codespace / Real-VPS ]
+---
 Credit all these guys!:
 * SoloPlayz
+* HopingBOY
 * DhwaJ_XD
 * Jishnu
 * NotGamerPie
