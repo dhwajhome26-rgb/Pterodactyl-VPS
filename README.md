@@ -46,11 +46,13 @@ Your Google IDX VM + Pterodactyl Panel is now installed.
 ## 🦾 Make Free Own VPS In One Command
 * This Code Made By SoloPlayz
 
-Step 1: ```bash <(curl -fsSL https://raw.githubusercontent.com/Solodactyl/24-7/main/install.sh)```
+Step 1: ```sudo su```
 
-Step 2: ```apt update```
+Step 2: ```bash <(curl -fsSL https://raw.githubusercontent.com/Solodactyl/24-7/main/install.sh)```
 
-Step 3: ```apt install neofetch```
+Step 3: ```apt update```
+
+Step 4: ```apt install neofetch```
 
 ## Now You Have 64GB Ram VPS 🎉
 
