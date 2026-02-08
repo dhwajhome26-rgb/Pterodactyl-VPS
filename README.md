@@ -83,6 +83,8 @@ Step 4: ```npm install```
 
 Step 5: ```Paste Your Node Configration```
 
+---
+
 ## 🐡 PufferPanel
 
 Step 1: ```bash <(curl -s https://raw.githubusercontent.com/JishnuTheGamer/puffer-panel/refs/heads/main/install)```
