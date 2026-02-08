@@ -83,7 +83,17 @@ Step 4: ```npm install```
 
 Step 5: ```Paste Your Node Configration```
 
-[ This Code Working On All VPS Like WorkSpace / Codespace / Real-VPS ]
+## 🐡 PufferPanel
+
+Step 1: ```bash <(curl -s https://raw.githubusercontent.com/JishnuTheGamer/puffer-panel/refs/heads/main/install)```
+
+* Admin User Create & Start Panel
+
+Step 2: ```sudo pufferpanel user add```
+
+Step 3: ```sudo systemctl enable --now pufferpanel```
+
+[ This Codes Working On All VPS Like WorkSpace / Codespace / Real-VPS ]
 ---
 Credit all these guys!:
 * SoloPlayz
