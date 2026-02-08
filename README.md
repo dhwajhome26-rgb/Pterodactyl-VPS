@@ -174,6 +174,8 @@ Step 4: ```node .```
 ## 🎮 Minecraft Server
 Latest Paper Server > https://fill-data.papermc.io/v1/objects/82a487ab8c2d0f6f072b8dbaedc9218c85ae3a7d167808124462b248955beec3/paper-1.21.11-111.jar
 
+PlayIt > https://github.com/dhwajhome26-rgb/Pterodactyl-VPS/blob/main/playit-minecraft-plugin.jar
+
 Step 1: ```sudo su```
 
 Step 2: ```sudo apt update```
@@ -190,11 +192,25 @@ Step 7: ```wget https://fill-data.papermc.io/v1/objects/82a487ab8c2d0f6f072b8dba
 
 Step 8: ```Make New Terminal In Your GitHub CodeSpace```
 
+Step 9: ```sudo apt install glances```
+
+Step 10: ```glances```
+
+Step 11: ```Go Back First Terminal```
+
+Step 12: ```Enter Start Command```
+
+Step 13: ```nano eula.txt [ Ctrl+O And Then Enter Ctrl+X To Exit ]```
+
+Step 14: ```nano server.properties Change Setting If U Want To [ Ctrl+O And Then Enter Ctrl+X To Exit ]```
+
+Step 15: ```Again Enter Start Command```
+
    * Start Command
 
-Step 9: ```cd minecraft server```
+Step 16: ```cd minecraft server```
 
-Step 10: ```java -Xmx12288M -Xms12288M -jar paper-1.21.11-111.jar nogui```
+Step 17: ```java -Xmx12288M -Xms12288M -jar paper-1.21.11-111.jar nogui```
 
 [ This Codes Working On All VPS Like WorkSpace / Codespace / Real-VPS ]
 ---
