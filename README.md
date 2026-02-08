@@ -139,9 +139,9 @@ Step 7: ```pm2 start .```
 ---
 
 ## 🎲 HydraDash
-Paper Versions > https://github.com/dhwajhome26-rgb/Pterodactyl-VPS/blob/main/Paper-Versions.json
+**Paper Versions >** https://github.com/dhwajhome26-rgb/Pterodactyl-VPS/blob/main/Paper-Versions.json
 
-PlayIt > https://github.com/dhwajhome26-rgb/Pterodactyl-VPS/blob/main/playit-minecraft-plugin.jar
+**PlayIt >** https://github.com/dhwajhome26-rgb/Pterodactyl-VPS/blob/main/playit-minecraft-plugin.jar
 
 Step 1: ```sudo su```
 
@@ -172,9 +172,9 @@ Step 4: ```node .```
 ---
 
 ## 🎮 Minecraft Server
-Latest Paper Server > https://fill-data.papermc.io/v1/objects/82a487ab8c2d0f6f072b8dbaedc9218c85ae3a7d167808124462b248955beec3/paper-1.21.11-111.jar
+**Latest Paper Server >** https://fill-data.papermc.io/v1/objects/82a487ab8c2d0f6f072b8dbaedc9218c85ae3a7d167808124462b248955beec3/paper-1.21.11-111.jar
 
-PlayIt > https://github.com/dhwajhome26-rgb/Pterodactyl-VPS/blob/main/playit-minecraft-plugin.jar
+**PlayIt >** https://github.com/dhwajhome26-rgb/Pterodactyl-VPS/blob/main/playit-minecraft-plugin.jar
 
 Step 1: ```sudo su```
 
