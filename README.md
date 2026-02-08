@@ -95,6 +95,24 @@ Step 2: ```sudo pufferpanel user add```
 
 Step 3: ```sudo systemctl enable --now pufferpanel```
 
+---
+
+## 🐲 DracoPanel
+
+Step 1: ```sudo su```
+
+Step 2: ```bash <(curl -s https://raw.githubusercontent.com/JishnuTheGamer/Vps/refs/heads/main/jishnu)```
+
+   * Install The Node
+
+Step 3: ```bash <(curl -s https://raw.githubusercontent.com/JishnuTheGamer/Vps/refs/heads/main/node)```
+
+Step 4: ```cd node```
+
+Step 5: ```Paste Your Configure Of Node```
+
+Step 6: ```node .```
+
 [ This Codes Working On All VPS Like WorkSpace / Codespace / Real-VPS ]
 ---
 Credit all these guys!:
