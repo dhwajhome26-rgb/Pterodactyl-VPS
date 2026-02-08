@@ -47,7 +47,9 @@ Your Google IDX VM + Pterodactyl Panel is now installed.
 * This Code Made By SoloPlayz
 
 Step 1: ```bash <(curl -fsSL https://raw.githubusercontent.com/Solodactyl/24-7/main/install.sh)```
+
 Step 2: ```apt update```
+
 Step 3: ```apt install neofetch```
 Now You Have 64GB Ram VPS 🎉
 
