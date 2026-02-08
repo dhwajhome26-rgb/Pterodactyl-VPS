@@ -43,9 +43,17 @@ Sign up on Cloudflare for DNS & SSL setup:
 Your Google IDX VM + Pterodactyl Panel is now installed.
 
 ---
+## 🦾 Make Free Own VPS In One Command
+* This Code Made By SoloPlayz
 
+Step 1: ```bash <(curl -fsSL https://raw.githubusercontent.com/Solodactyl/24-7/main/install.sh)```
+Step 2: ```apt update```
+Step 3: ```apt install neofetch```
+Now You Have 64GB Ram VPS 🎉
+
+---
 Credit all these guys!:
-
+* SoloPlayz
 * DhwaJ_XD
 * Jishnu
 * NotGamerPie
