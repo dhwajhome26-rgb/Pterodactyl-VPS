@@ -169,6 +169,29 @@ Step 3: ```cd HydraDAEMON```
 
 Step 4: ```node .```
 
+---
+
+## 🎮 Minecraft Server
+Latest Paper Server > https://fill-data.papermc.io/v1/objects/82a487ab8c2d0f6f072b8dbaedc9218c85ae3a7d167808124462b248955beec3/paper-1.21.11-111.jar
+
+Step 1: ```sudo apt update```
+
+Step 2: ```sudo apt upgrade```
+
+Step 3: ```sudo apt install openjdk-17-jdk```
+
+Step 4: ```mkdir minecraft_server```
+
+Step 5: ```cd minecraft_server```
+
+Step 6: ```wget https://fill-data.papermc.io/v1/objects/82a487ab8c2d0f6f072b8dbaedc9218c85ae3a7d167808124462b248955beec3/paper-1.21.11-111.jar```
+
+   * Start Command
+
+Step 7: ```cd minecraft server```
+
+Step 8: ```java -Xmx12288M -Xms12288M -jar paper-1.21.11-111.jar nogui```
+
 [ This Codes Working On All VPS Like WorkSpace / Codespace / Real-VPS ]
 ---
 Credit all these guys!:
