@@ -174,4 +174,5 @@ Credit all these guys!:
 * DhwaJ_XD
 * Jishnu
 * NotGamerPie
+* Manya_XD
 ### Thanks!
