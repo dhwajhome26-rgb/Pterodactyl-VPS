@@ -218,6 +218,36 @@ Step 16: ```cd minecraft server```
 
 Step 17: ```java -Xmx12288M -Xms12288M -jar paper-1.21.11-111.jar nogui```
 
+## 💻 Website
+
+Step 1: ```mkdir website-by-dhwajxd```
+
+Step 2: ```cd website-by-dhwajxd```
+
+Step 3: ```sudo su```
+
+Step 4: ```apt update```
+
+Step 5: ```apt upgrade```
+
+Step 6 ```npm install```
+
+Step 7 ```npm install node```
+
+Step 8: ```apt install website```
+
+Step 9: ```cd website-by-dhwajxd , For 1 Time Comfirm cd```
+
+Step 10: ```Now, in the website folder that has been created, create home.html and login.html or style.css, If you are host it on a computer/PC, make sure it's not a .txt file., make sure there is no .txt extension.```
+
+Step 11: ```Go to ChatGPT/Gemini and have it generate the code according to your website's requirements. and paste code in your file  home.html and login.html or style.css ```
+
+Step 12: ```python -m http.server```
+
+Step 13 ```If you've hosted the website on your computer, go to https://localhost:3000 and your website will open. If you've hosted it on CodeSandbox, the port will be forwarded automatically.```
+
+## Now Your Own Premium Website 🎉
+
 [ This Codes Working On All VPS Like WorkSpace / Codespace / Real-VPS ]
 ---
 Credit all these guys!:
