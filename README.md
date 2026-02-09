@@ -245,7 +245,7 @@ Step 11: ```Go to ChatGPT/Gemini and have it generate the code according to your
 
 Step 12: ```python -m http.server```
 
-Step 13 ```If you've hosted the website on your computer, go to https://localhost:3000 and your website will open. If you've hosted it on CodeSandbox, the port will be forwarded automatically.```
+Step 13 ```If you've hosted the website on your computer, go to https://localhost:3000 and your website will open. If you've hosted it on CodeSandbox, the port will be forwarded automatically. [ Port: 8000 ]```
 
 ## Now Your Own Premium Website 🎉
 
