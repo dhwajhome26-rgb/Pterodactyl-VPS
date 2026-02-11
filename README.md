@@ -214,7 +214,7 @@ Step 15: ```Again Enter Start Command```
 
    * Start Command
 
-Step 16: ```cd minecraft server```
+Step 16: ```cd minecraft_server```
 
 Step 17: ```java -Xmx12288M -Xms12288M -jar paper-1.21.11-111.jar nogui```
 
