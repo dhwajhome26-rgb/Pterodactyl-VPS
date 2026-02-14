@@ -249,14 +249,14 @@ Step 13 ```If you've hosted the website on your computer, go to https://localhos
 
 ## Now Your Own Premium Website 🎉
 
-## 🐢 Panel Installer 1.2
+## 🐢 Panel Installer 1.3
 Panel Installer / All Code - Made By DhwaJ_XD 
 
 Step 1: ```git clone https://github.com/dhwajhome26-rgb/Panel-Installer.git```
 
 Step 2: ```cd Panel-Installer```
 
-Step 3: ```bash panel-install-1.2.sh```
+Step 3: ```bash panel-installer-1.3.sh```
 
 ## 🪶 FeatherPanel
 Available On Panel Installer 1.3 Version
